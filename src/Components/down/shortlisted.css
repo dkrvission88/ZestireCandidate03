@@ -1,0 +1,176 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+/* .wrapshort{
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    background: rgba(189 189 189 0.9);
+} */
+
+.mainsh {
+  background: rgba(39, 179, 87, 0.16);
+  width: 100%;
+  height: 35vh;
+  position: relative;
+}
+
+.sortsh {
+  display: flex;
+  justify-content: end;
+  padding-top: 2%;
+}
+
+.ram{
+  padding-top: 4px;
+}
+
+#cars {
+  padding: 5px;
+  width: 9%;
+  border: 1px solid rgba(16, 16, 16, 1);
+  background: rgba(39, 179, 87, 0.16);
+  border-radius: 12px;
+  outline: none;
+  margin-left: 8px;
+  text-align: center;
+}
+
+.undersh {
+  display: flex;
+  justify-content: space-around;
+  /* padding-left: 15%; */
+  background: ;
+}
+
+.undersh span {
+  /* margin-top: 10px; */
+  padding: 28px 13px 20px 0px;
+}
+
+.msgsh {
+  padding: 10px 10px 10px 0px;
+}
+
+.msgsh p {
+  font-family: "Poppins";
+  padding: 2px 2px 2px 0px;
+}
+
+/* Card CSS */
+
+/* .baraap {
+    position: fixed;
+    width: 100%;
+    height: 40vh;
+    background: #ffffff; */
+
+/* width: 20%; */
+/* border: 1px solid rgb(255, 252, 252);
+  
+    top: 32%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 5px 5px 5px 5px;
+    padding: 15px 15px 15px 15px;
+  } */
+
+.mainap {
+  background: #ffffff;
+  /* position: absolute;
+    top: -10px;  */
+  /*left: 310px;  
+  z-index: 2;
+  /* font-size: 10px; */
+  /* border-radius: 3px; */
+}
+
+.iconap {
+  display: flex;
+  justify-content: space-between;
+  background: #ffffff;
+}
+
+.cardap {
+  position: relative;
+  top: -60px;
+  width: 20%;
+  /* height: 50%; */
+  background: #ffffff;
+  padding: 0px 10px 20px 10px;
+  border-radius: 7px;
+  box-shadow: 1px 1px 10px gainsboro;
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.shortcenter {
+  display: flex;
+  justify-content: center;
+}
+
+.underap {
+  font-family: "poppins";
+  font-size: small;
+  background: #ffffff;
+}
+
+.cardap p {
+  font-family: "poppins";
+  /* background: #FFFFFF; */
+}
+
+.fullap {
+  background: rgba(232, 255, 240, 1);
+  width: 90px;
+  border-radius: 10px;
+  text-align: center;
+  font-size: small;
+  font-family: "Poppins";
+  margin: 5px 0px 8px 0px;
+}
+
+.chiefap {
+  margin-bottom: 5px;
+  font-family: "poppins";
+  background: #ffffff;
+}
+
+.viewap {
+  margin-top: 10px;
+
+  display: flex;
+  justify-content: end;
+  background: #ffffff;
+}
+.btnview {
+  color: #3583f6;
+  background: #ffffff;
+  border: none;
+  font-family: "poppins";
+}
+
+/* End Card */
+
+/* .shortap {
+    display: flex;
+    justify-content: end;
+    background: #ffffff;
+  }
+  
+  .shortap {
+    margin-right: 12%;
+  }
+  
+  .shortap #cars {
+    width: 8%;
+    padding: 7px;
+    margin-left: 10px;
+    border-radius: 25px;
+    border: 1px solid #101010;
+    background: #ffffff;
+  } */

@@ -1,0 +1,35 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    /* background: #F6FAFF; */
+}
+
+
+
+.main1{
+    display: flex;
+    justify-content: space-around;
+    background: #FFFFFF;
+    padding: 15px;
+    box-shadow: 1px 0px 17px #000000;
+
+}
+
+
+
+span{
+    /* background: rgba(255, 255, 255, 1); */
+   
+    
+
+
+}
+
+
+.btn1 ,.btn2,.btn3{
+    border: none rgba(255, 255, 255, 1);
+    background: #FFFFFF;
+   
+    position: relative;
+    top: -5px;
+}
